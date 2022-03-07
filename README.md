@@ -1,4 +1,4 @@
-### Hi there 👋
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 <!--
 **zkochan/zkochan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
