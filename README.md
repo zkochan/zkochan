@@ -22,6 +22,6 @@ My latest articles:
 - [The year 2021 for pnpm](https://pnpm.io/blog/2021/12/29/yearly-update)
 - [Trying pnpm on the JustAnswer multi-package repository](https://www.justanswer.com/blog/engineering/pnpm-on-justanswer-multi-package-repository)
 
-My vidoes:
+My videos:
 
 - [pnpm – a Fast, Disk Space Efficient Package Manager for JavaScript - Zoltan Kochan, DevOps.js Conf](https://youtu.be/pLI41kHi3AM)
